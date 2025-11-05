@@ -11,5 +11,4 @@ func main(){
     // iterate keys and values and print them
 
 	// print the unicodes of each key
-    }
 }
